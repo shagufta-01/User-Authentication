@@ -1,7 +1,3 @@
-Here is a detailed `README.md` file with example code for an **Authentication using Node.js** project:
-
----
-
 # Authentication using Node.js
 
 This project demonstrates how to implement **user authentication** using **Node.js**, **Express.js**, **JWT (JSON Web Tokens)**, and **MongoDB**. It allows users to register, log in, and access protected routes with secure, token-based authentication.
